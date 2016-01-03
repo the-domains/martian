@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[martian]]></title>
+        <description><![CDATA[martian]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Jan 2016 20:08:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creative + Grouchy]]></title>
+            <description><![CDATA[<article><h1>Creative + Grouchy</h1><p>So my dad retired yesterday. My sister wrote her own post about this yesterday and it sparked some thoughts of my own. Being 26 years old and following a similar path as he did throughout his life, that is actually a very surreal thought for me. Retirement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c85163c44fdd26cdff5d505e313820925728fc7.jpg"></article>]]></description>
+            <link>http://creativeandgrouchy.tumblr.com/</link>
+            <guid isPermaLink="false">70e0b971-801a-488b-92ac-f2a16049df09</guid>
+            <pubDate>Sun, 03 Jan 2016 20:08:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
