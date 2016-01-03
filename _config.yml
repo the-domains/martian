@@ -1,6 +1,6 @@
 name: martian
 favicon: null
-layout_spectrum: 0.8859575486276299
+layout_spectrum: 0.24656
 typography_spectrum: 0.22883849823847413
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.7683482423890382
   lightness: 0.9600798955652863
   saturation: 0.5322099549230188
-  rhythmicContrast: 0.08602302777580917
+  rhythmicContrast: 0
 purpose: []
